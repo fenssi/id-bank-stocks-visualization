@@ -9,11 +9,11 @@
 5. Correlation between each pair of bank stocks and the level of strong relationships?
 
 ## Process
-"📥 Install pandas-datareader and finance (Yahoo Finance)
+📥 Install pandas-datareader and finance (Yahoo Finance)
 📥 Download bank stocks historical data
 📈 Maximum and minimum close price
 📊 Return calculation
 ⚖️ Standard Deviation calculation
 🔍 Create Pairplot visualization for correlation
 ✔️ Create Heatmap visualization for correlation
-⚙️ Create a close price trendline using Pyplot"
+⚙️ Create a close price trendline using Pyplot
