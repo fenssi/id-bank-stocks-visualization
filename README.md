@@ -10,6 +10,11 @@
 
 ## Process
 1. Install pandas-datareader and finance (Yahoo Finance)
-2. Determine the bank stocks
-3. Download bank stocks historical data
-4. 
+2. Download bank stocks historical data
+4. Maximum and minimum close price
+5. Return calculation
+6. Standard Deviation calculation
+7. Create statement automation
+8. Create Pairplot visualization for correlation
+9. Create Heatmap visualization for correlation
+10. Create a close price trendline using Pyplot
