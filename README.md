@@ -14,7 +14,6 @@
 4. Maximum and minimum close price
 5. Return calculation
 6. Standard Deviation calculation
-7. Create statement automation
-8. Create Pairplot visualization for correlation
-9. Create Heatmap visualization for correlation
-10. Create a close price trendline using Pyplot
+7. Create Pairplot visualization for correlation
+8. Create Heatmap visualization for correlation
+9. Create a close price trendline using Pyplot
