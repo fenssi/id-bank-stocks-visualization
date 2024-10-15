@@ -1,5 +1,8 @@
 # Indonesia's Bank Stocks Visualization
+Hi, this is my first self-exploratory project in the financial field to identify Indonesia Bank Stock visualization. The Indonesia Bank Stock Visualization project aims to provide a comprehensive analysis of historical stock data from major Indonesian banks. By focusing on key financial metrics, this project explores the patterns and relationships among bank stocks over time. Understanding these factors is crucial for investors and analysts looking to make informed decisions based on historical performance.
 
+#❗️Disclaimer❗️
+This project is intended for educational and analytical purposes. It shows the actual historical data of Indonesian Bank Stocks and doesn't serve as a recommendation or endorsement of any specific bank stock. The information provided here should not be interpreted as investment advice. Please conduct your own research or consult with a financial advisor before making any investment decisions.
 
 ## Objectives
 1. The maximum and minimum closing price
@@ -17,14 +20,4 @@
 6. Create Pairplot visualization for correlation
 7. Create Heatmap visualization for correlation
 8. Create a close price trendline using Pyplot
-
-
-📥 Install pandas-datareader and finance (Yahoo Finance)
-📥 Download bank stocks historical data
-📈 Maximum and minimum close price
-📊 Return calculation
-⚖️ Standard Deviation calculation
-🔍 Create Pairplot visualization for correlation
-✔️ Create Heatmap visualization for correlation
-⚙️ Create a close price trendline using Pyplot
 
